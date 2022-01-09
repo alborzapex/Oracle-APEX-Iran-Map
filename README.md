@@ -58,7 +58,8 @@ The result you see on the map:
                   </ol>
                </div>
             </div>
-            <a href="https://alborzapex.com/product/%d9%86%d9%82%d8%b4%d9%87-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-apex/"  target="_blank" title="Alborz APEX"><strong>Oracle APEX Iran Map in Aborz APEX</strong></a>
+            <strong>Read more in </strong>
+            <a href="https://alborzapex.com/product/%d9%86%d9%82%d8%b4%d9%87-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-apex/"  target="_blank" title="Alborz APEX"><strong>Aborz APEX Iran Map...</strong></a>
 </br>
 <p>
 <div>We used the following link:</div>
